@@ -11,7 +11,7 @@ ReviewPool is a Service Rating Website for Hotels, Movies and Restaurants
 * Somidi Sathwika Reddy
 ## KEY FEATURES
 ### USER-AUTHENTICATION
-We created register user, login forms using django.contrib.auth for authentication and tokenization of users.
+We created register user, login forms using django.contrib.auth for authentication and tokenization of users. There is a feature for changing password
 ### DASHBOARD
 Dashboard is the home page of our website in which a user can navigate to different pages, visit their profile page and logout.
 ### PROFILE
