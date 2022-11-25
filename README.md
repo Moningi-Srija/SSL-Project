@@ -49,6 +49,13 @@ The hotels, movies and restaurants are displayed as cards containing information
     * Add Review Button
 ### REVIEWS
 The user can add their review for a hotel, restaurant or movie by clicking on the "Add review" button and fill the form which gets displayed in the Users Reviews Page. There are three seperate pages of reviews for hotels, movies and restaurants made by the user which can be accessed through the user's profile page.
-
+## BASIC COMMANDS
+Run these commands in the folder containing manage.py
+```
+pip install -r requirements.txt
+python3 manage.py makemigrations
+python3 manage.py migrate
+python3 manage.py runserver
+```
 
 
